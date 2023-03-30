@@ -1,2 +1,2 @@
-# sora
+# practice
 Beginner
